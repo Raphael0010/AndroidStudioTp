@@ -1,6 +1,6 @@
-APK : TpAndroid/build/ouputs/apk/debug/app-debug.apk
+APK : TpAndroid/app/build/ouputs/apk/debug/app-debug.apk
 
-Raphael M
+# Raphael M
 
 
 # Licence MIT
