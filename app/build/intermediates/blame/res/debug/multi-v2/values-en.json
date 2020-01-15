@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/raphaelmortier/Documents/Developpement/AndroidStudio/TpAndroid/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/Users/raphaelmortier/Documents/Developpement/AndroidStudio/TpAndroid/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,13,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,637,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,97,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,730,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,157,221,263,313,360,409,469,528,626,688",
+                        "endColumns": "49,51,63,41,49,46,48,59,58,97,61,46",
+                        "endOffsets": "100,152,216,258,308,355,404,464,523,621,683,730"
+                    }
+                }
+            ]
+        }
+    ]
+}

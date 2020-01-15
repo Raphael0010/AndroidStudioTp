@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carte aux Trésors</string>
+    <string name="app_title">Chasse aux Trésors</string>
+    <string name="btn_continueParty">Continuer Partie</string>
+    <string name="btn_help">Aide</string>
+    <string name="btn_newParty">Nouvelle Partie</string>
+    <string name="help_subtitle">Aide</string>
+    <string name="main_Title">Menu Principal</string>
+    <string name="newParty_chooseMap">Sélectionner une carte</string>
+    <string name="option_chooseLangue">Langue :</string>
+    <string name="option_noNeed">Pas besoin de la changer elle s\'adapte au téléphone</string>
+    <string name="qst_totalCredit">Total de vos crédits :</string>
+    <string name="qst_valid">Valider</string>
+</resources>
