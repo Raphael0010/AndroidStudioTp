@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Treasure Map</string>
+    <string name="app_title">Treasure Hunt</string>
+    <string name="help_subtitle">Help</string>
+    <string name="btn_newParty">New Game</string>
+    <string name="btn_continueParty">Continue the game</string>
+    <string name="btn_help">Help</string>
+    <string name="main_Title">Main Menu</string>
+    <string name="option_chooseLangue">Language :</string>
+    <string name="newParty_chooseMap">Choose a map</string>
+    <string name="qst_totalCredit">Total of credit :</string>
+    <string name="qst_valid">Validate</string>
+    <string name="option_noNeed">"It's the language of the phone, no need to change it "</string>
+</resources>
